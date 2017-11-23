@@ -5,4 +5,4 @@ I was in need of high quality Bible content (reference, indentations, and headin
 
 I am using Selenium to crawl through their React-built website. All I had to do was to set the proper waits and keep clicking next chapter until it does not find one anymore.
 
-![screenshot](https://github.com/obedtandadjaja/BibleCrawler/screenshot.png)
+![screenshot](https://github.com/obedtandadjaja/bible_web_crawler/blob/master/screenshot.png)
